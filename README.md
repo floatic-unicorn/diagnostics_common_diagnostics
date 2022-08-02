@@ -1,3 +1,11 @@
+# diagnostics_common_diagnostics
+
+This package is forked from [vaibhavbhadade's fork](https://github.com/vaibhavbhadade/diagnostics), and modified to use only diagnostics_common_diagnostics pakcage for our usecase.
+
+down below is the original README.
+
+# Original readme.
+
 This file contains basic overview of diagnostics and procedure to build the package.
 
 Overview

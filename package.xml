@@ -4,11 +4,13 @@
   <name>diagnostic_common_diagnostics</name>
   <version>0.5.1</version>
   <description>
-    Python nodes which were previously in the ros2/examples repository but are now just used for demo purposes.
+      Diagnostics that are commonly used.
   </description>
-  <maintainer email="mikael@osrfoundation.org">Mikael Arguedas</maintainer>
+  <maintainer email="jihoon@floatic.io">Jihoon Lee</maintainer>
   <license>Apache License 2.0</license>
 
+  <!-- <maintainer email="mikael@osrfoundation.org">Mikael Arguedas</maintainer> -->
+  <author>Mikael Argueda</author>
   <author email="esteve@osrfoundation.org">Esteve Fernandez</author>
 
 
